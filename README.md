@@ -1,7 +1,5 @@
 # 1o-Trabalho-Planejador-para-Empilhar-blocos-de-diferente-dimens-es
 
-# Inteligência Artificial
-# 1o Trabalho: Planejador para Empilhar blocos de diferente dimensões
 
 
 
